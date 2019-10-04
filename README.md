@@ -10,6 +10,6 @@ I am convinced that a basic rule to coordinate a theme is to respect the origina
 
 移植主题的一个原则就是尊重原主题，不根据自己的意志篡改主题样式，因此本主题的更新仅进行功能上的维护。如果你有特别的需求例如增加侧边栏内容、修改版式等，可以自己动手，也可以向我发起付费修改的委托，感激不尽。
 
-![.](https://sub.lia.im/images/68747470733a2f2f692e6c6f6c692e6e65742f323031382f31302f30382f356262623635376130666331362e706e67.png)
+![.](https://storage.googleapis.com/cy-bucket/github/Anatole-1.png)
 
-![.](https://sub.lia.im/images/68747470733a2f2f692e6c6f6c692e6e65742f323031382f31302f30382f356262623635373963636565622e706e67.png)
+![.](https://storage.googleapis.com/cy-bucket/github/Anatole-2.png)
