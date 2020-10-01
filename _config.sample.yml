@@ -1,16 +1,16 @@
 # Blog
-keywords: Hexo,HTML,CSS,android,Linux
-author: Author Name,name@example.com
-description: Nothing lasts forever.
-avatar: /images/favicon.png
+keywords: Hexo,HTML,CSS,PHP,Linux
+author: Xiaopeng.Wang,a2xpQGxpdmUuY29t
+description: 願你一切遂心.  
+avatar: /images/CY.png
 
 # Social Accounts
-twitter: 
-rss: 
-weibo: 
-instagram: 
-github: 
-facebook: 
+#twitter: 
+rss: atom.xml
+#weibo: 
+instagram: https://www.instagram.com/_wangxiaopeng
+github: https://github.com/ikym
+#facebook: 
 
 # Comment
 duoshuo: 
